@@ -1,0 +1,16 @@
+.titulo {
+    color: white;
+    margin: 0;
+    padding: 20px;
+    background-color: red;
+    display: flex;
+    list-style-type: none;
+  
+}
+   
+.container {
+    text-align: start;
+    color: white;
+    background-color: rgb(48, 46, 46);
+    padding: 300px;
+   }
